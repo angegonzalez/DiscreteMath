@@ -7,3 +7,4 @@ Encontramos los siguientes algoritmos:
 
     1. Implementacion del RSA (Rivest, Shamir y Adleman) como un ejercicio de criptografía. 
     2. Grupo de automorfismos, como un ejercicio de teoría de grupos. 
+    3. Numeros de Lucas, como un ejercicio de Ecuaciones en Diferencias.
